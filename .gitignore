@@ -1,0 +1,8 @@
+.env
+.env.prod
+.env.local
+.cli
+.vscode
+config.json
+config_*.json
+*.out
